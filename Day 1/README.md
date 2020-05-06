@@ -7,7 +7,7 @@
       - Let us read the data into Excel when the data is presented in a text format.
 - A text format which is a comma separated format.
 - The name, comma separated text format.
-- As we select the file,Excel guides us through its Text Import Wizard.
+- As we select the file,Excel guides us through its Text Import Wizard.(Sometimes we may face difficulties to convert...at that moment we can convert the text file into CSV file thus converting into EXCEL FILE) 
 - And we need to choose the delimited option, because we are reading a delimited file. So we choose delimited option, do a Next.
 - And in particular, among the options of delimiters, since this file is comma separated or comma delimited, we choose the comma as a delimiter.
 - Then do a Next.And then do a Finish.
