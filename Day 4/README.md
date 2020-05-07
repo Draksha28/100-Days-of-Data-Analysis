@@ -31,6 +31,8 @@
          -Correct : Enable DataAnalysis ToolPak.
          -Correct : Make sure the minimum value is larger than the smallest bin value.
                Uncheck the chart option.
+               
+ ## **Option for Installing anything is Office...Excel Options...Adds-In**
 
 
  
