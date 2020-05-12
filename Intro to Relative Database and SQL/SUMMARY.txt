@@ -1,0 +1,18 @@
+## ** Work on MySQL Workbench **
+- Relational Database is a collection of tables.
+## ** SECTION 1 : Select Statements **
+- Enter the Data :  SELECT * FROM us_state(File Name)
+- And click on the Lightning Symbol
+- To get the selected data from table enter: SELECT * FROM us_state(File Name) WHERE name = "Xyz"
+- The * Symbol in the Command signifies all columns of that data rather we can specify the column we need.
+  = SELECT name, abbreviation FROM us_state WHERE name = "Alaska"
+## ** SECTION 2 : Select Statements with pattern matching and sorting **
+ - Enter the Data : SELECT * FROM us_state ORDER BY area_size DESC
+ - Enter the Data : SELECT * FROM us_state name LIKE "M%" ORDER BY name
+## ** SECTION 3 : Insert Statements **
+ - Enter the Data : INSERT INTO <<table_name>> 
+   SET (details like) last_name = "bhbb"...etc 
+## ** SECTION 4 : Delete Statements **
+ - Enter the Data : DELETE FROM <<table_name>> WHERE <<column_name>> = "HBUHUH"
+## ** SECTION 5 : Joining Tables **
+ - SELECT (columns you require) FROM (table names) WHERE (condition)....ORDER BY (if necessary)
