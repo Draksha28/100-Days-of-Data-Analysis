@@ -4,3 +4,4 @@
 ## **Day 2**: Introduction to Data Analysis Using Excel **Week 2**  *6th May*
 ## **Day 3**: Introduction to Data Analysis Using Excel **Week 3**  *7th May*
 ## **Day 4**: Intoduction to Data Analysis Using Excel **Week 4**   *7th May*
+## **Day 5**: Introduction to Relative Data and SQL **Complete Course**  **13th May**
