@@ -24,7 +24,7 @@
 This is a list of rates that are often computed from a confusion matrix for a binary classifier:
 
 - The probability that an event is assigned a positive classification, d, is sometimes called the classification incidence or test incidence.
-- The probability that the condition is actually present, b, is also called condition “incidence. 
+- The probability that the condition is actually present, b, is also called condition â€œincidence. 
  - ** Accuracy** : Overall, how often is the classifier correct?
  (TP+TN)/total = (100+30)/150 = 0.867
 - ** Misclassification Rate ** : Overall, how often is it wrong?
