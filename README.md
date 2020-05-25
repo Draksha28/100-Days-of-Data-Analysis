@@ -7,3 +7,4 @@
 ## **Day 5**: Introduction to Relative Data and SQL **Complete Course**  **13th May**
 ## **Day 6**: Mastering Data Analysis In Excel **Week 1**  *18th May*
 ## **Day 7**: Mastering Data Analysis In Excel **Week 2**  *23rd May*
+## **Day 8**: Mastering Data Analysis In Excel **Week 3**  *25th May*
