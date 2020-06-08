@@ -75,7 +75,7 @@ n = n + 1
 n plays a very different role on each side of the =. On the right it is a value and makes up part of the expression which will be 
 evaluated by the Python interpreter before assigning it to the name on the left.
 *assignment token -*
-= is Python’s assignment token, which should not be confused with the mathematical comparison operator using the same symbol.
+- = is Python’s assignment token, which should not be confused with the mathematical comparison operator using the same symbol.
 *boolean expression -*
 - An expression that is either true or false.
 *boolean value -*
