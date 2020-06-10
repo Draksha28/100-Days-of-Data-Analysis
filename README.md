@@ -9,3 +9,4 @@
 ## **Day 7**: Mastering Data Analysis In Excel **Week 2**  *23rd May*
 ## **Day 8**: Mastering Data Analysis In Excel **Week 3**  *25th May*
 ## **Day 9**: Python Basics **Week 1**  *8th June*
+## **Day 10**: Python Basics **Week 2**  *10th June*
