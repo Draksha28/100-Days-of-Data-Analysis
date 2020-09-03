@@ -1,0 +1,76 @@
+Initiating and Planning Projects
+
+What is a project?
+- A unique and temporary endeavour.
+- Has a defined Beginning and End.
+- It's purpose is to create a specific product or service or change a specific product.
+
+Constraint: A factor which may place limitations on: What, How and When you do it.
+
+Project Management Body of Knowledge:
+- It's a guide provided by PMI(Project Management Institute)
+- It provides a guide on Standardized knowledge areas and processes used to manage projects from start to finish.
+
+Functional Organization: It includes Chief Executive -> Functional Managers(A person who has responsibility over a specific area, and does not typically run projects)-> Staff
+- They work well for groups who do not run many projects and there is no complicated or tight deadline.
+
+Matrix Organisations: They work very well when team members are assigned to multiple projects and other work.And the project manager will most likely run multiple projects.
+Three types of Matrix Organizations: 
+- Weak 
+ i. functional Manager is in charge.
+ ii. He/she assists the project coordinator
+ iii. Coordinator helps maintain the schedule and status, but does not have decision-making responsibility
+- Balanced 
+ i. Project Manager will help ensure project success
+ ii. Project Manager has some decision-making responsibilities
+ iii. Project Manager manages the team to stay within scope, schedule and budget
+- Strong
+    Project Manager has more authority and responsibility, but not complete authority.
+
+Projectized Organization: Project Manager is a king/queen and he acts as the manager of the team.The team works on one project. They may even write performance appraisals.
+
+Project Stakeholder: An individual,group,or organization may affect, be affected by,or percieve itself to be 
+affected by a decision, activity, or outcome of a project.
+
+How to identify Stakeholders for a Project?
+- Who asked for this project?
+- Who will use the product or service we are creating or enhancing?
+- Who will have to change the way they do their jobs because of this project?
+- Who makes decisions about this project?
+- Who has the ability to give or take away resources from the project?
+- Who influences those who make decisions about this project?
+- How do you know which stakeholders need more of your attention?
+- Which stakeholders will drive project success?
+
+Check out Power/Interest Grid: 
+Stakeholder Engagement Assessment Matrix:
+
+Stakeholder Register: Contains the key information about your stakeholders. 
+The register provides the information necessary to plan ways to engage your stakeholders.It should include items such as:
+- Assessment Information
+- Identification Information
+- Stakeholder Classification
+
+Immediately after project is selected we have to make a Project Charter.
+Project Charter:-
+-The document that formally announces the projects and grants the project manager the authority to use 
+organizational resources to meet project objectives.
+-The Project Charter will help you and your stakeholders gain an understanding of what the project looks like.
+- Serves as an announcement which states that the project has been approved.
+- States that you have been authorized to run the project and describes what you are authorized to do.
+
+How do we get to write the Charter:
+- A Business Case/Project Proposal will help you identify your stakeholders.
+- Interview stakeholders at the start of project to gather information.
+
+Project Management Plan: 
+Scope Management
+Schedule Management
+Cost Management
+Rules of Engagement
+
+Authority: You have the right to apply resources, expend funds, make decisions and give approvals.
+Influence: Your ability to persuade others to act on behalf of the project.
+
+
+
